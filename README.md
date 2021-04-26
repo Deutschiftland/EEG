@@ -1,2 +1,7 @@
 # EEG
-Tableur Excel servant à calculer la surchage par KW/h que doivent payer les consommateurs non "privilégiés". Cette surcharge contribue au financement de L'Energiewende
+Tableur Excel servant à calculer la surchage par KW/h que doivent payer les consommateurs non "privilégiés". Cette surcharge contribue au financement de L'Energiewende.
+Le mode d'emploi (en Allemand) est sur le répertoire.
+
+2 modes d'utilisateur peuvent être choisi. Le mode "décideur" ne permet de modifier qu'une partie des variables qui rentrent en compte pour calculer la surcharge. Le mode expert permet de toutes les modifier et de créer des scénarios possibles.
+
+En gros, selon le schéma mis en place, les fournisseurs d'énergie renouvelable sont prioritaires pour envoyer leur production sur le réseau, et pour les 20 ans suivant la mise en service des nouvelles installations ils bénéficient d'un prix fixe. (D'abord fixé au début de la mise en place de ce schéma, maintenant dépendant des résultats dúne mise aux enchères). Il y donc une manne monétaire qui correspond au volume d'electricité multiplié par la différence entre le prix fixe et le prix du marché qui est générée et qui est financée par une surcharge dont doivent s'acquitter les consommateurs "non-privilégíés" (le consommateur lambda et les petites entreprises. L'Allemagne ne voulant pas sabrer ses grosses industries en leur imposant un coût de l'énergir bien trop élevé par rapport à celui supporté par la concurrence). Il existe toutes sortes d'exceptions et de dérogations pour l'électricité auto-consommée, l'éolien offshore etc ... qui sont capturées par le tableur
